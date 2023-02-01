@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: seata-order
+  profiles:
+    active: dev
